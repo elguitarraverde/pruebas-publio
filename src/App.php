@@ -8,4 +8,9 @@ class App
     {
         return $a + $b + 1;
     }
+
+    public function restar(float $a, float $b): float
+    {
+        return $a - $b;
+    }
 }

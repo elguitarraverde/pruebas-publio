@@ -6,7 +6,7 @@ class App
 {
     public function sumar(float $a, float $b): float
     {
-        return $a + $b + 1;
+        return $a + $b;
     }
 
     public function restar(float $a, float $b): float

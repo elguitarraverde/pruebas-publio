@@ -1,0 +1,11 @@
+{
+    "name": "usuario/pruebas-publio",
+    "require": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Usuario\\PruebasPublio\\": "src/"
+        }
+    }
+}
